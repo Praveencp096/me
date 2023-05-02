@@ -1,0 +1,4 @@
+Django==3.0
+djangorestframework==3.12.4
+django-crispy-forms==1.14.0
+python-dotenv==0.20.0
